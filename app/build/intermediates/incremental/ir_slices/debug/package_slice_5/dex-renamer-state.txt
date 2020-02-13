@@ -1,0 +1,4 @@
+#Tue Mar 26 10:10:10 BRT 2019
+base.0=C\:\\Users\\augus\\AndroidStudioProjects\\PontuacaoBasquete\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
